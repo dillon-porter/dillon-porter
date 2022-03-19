@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dillon-porter
+- 👋 Hi, I’m Dillon Porter
 - 👀 I’m interested in learning new technologies involving around the web!
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Scrimba, Discord or any codespace 
