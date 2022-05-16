@@ -5,6 +5,9 @@
 - 📫 How to reach me ... dillonporter@hotmail.com
 - 🏒 I like the Toronto Maple Leafs despite them not winning the cup in 55 years. :(
 - 🎮 My hobby is playing video games
+- Certifications:
+  - Diploma (https://imgur.com/Ue7C9fd)
+
 
 <!---
 dillon-porter/dillon-porter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
