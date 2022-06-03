@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dillon Porter
 - 👀 I’m interested in learning new technologies involving around the web!
-- [Portfolio](dillon-porter.github.io/my-portfolio/) - Built using React.js
+- [Portfolio](https://dillon-porter.github.io/my-portfolio/) - Built using React.js
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Scrimba, Discord or any codespace 
 - 📫 How to reach me ... dillonporter@hotmail.com
