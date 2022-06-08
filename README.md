@@ -7,8 +7,7 @@
 - 🏒 I like the Toronto Maple Leafs despite them not winning the cup in 55 years. :(
 - 🎮 My hobby is playing video games
 - Certifications:
-  - Coursera Web Developmen Certificate https://github.com/dillon-porter/dillon-porter/files/8791707/Coursera.AZXXS5ALMXD4.pdf
-  - Diploma (https://imgur.com/Ue7C9f
+  - Coursera Web Development Certificate https://github.com/dillon-porter/dillon-porter/files/8791707/Coursera.AZXXS5ALMXD4.pdf
 
 
 <!---
