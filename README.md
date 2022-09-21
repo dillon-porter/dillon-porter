@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Scrimba, Discord or any codespace 
 - 📫 How to reach me ... dillonporter@hotmail.com
-- 🏒 I like the Toronto Maple Leafs despite them not winning the cup in 55 years. :(
+- 🏒 I like the Toronto Maple Leafs despite them not winning the cup in a very long time :(
 - 🎮 My hobby is playing video games
 - Certifications:
   - Coursera Web Development Certificate https://github.com/dillon-porter/dillon-porter/files/8791707/Coursera.AZXXS5ALMXD4.pdf
