@@ -9,6 +9,7 @@
 - 🎮 My hobby is playing video games
 - Certifications:
   - Coursera Web Development Certificate https://github.com/dillon-porter/dillon-porter/files/8791707/Coursera.AZXXS5ALMXD4.pdf
+  - Intro to Computer Science: [CS50x.pdf](https://github.com/dillon-porter/dillon-porter/files/13668032/CS50x.pdf)
 
 
 <!---
